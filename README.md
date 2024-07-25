@@ -35,7 +35,7 @@ Here's a list of some cool Slinks on Starknet:
 
 * **Fibrous**
   * Live Slink Tweet: [https://x.com/FibrousFinance/status/1816451301942657529](https://x.com/FibrousFinance/status/1816451301942657529)
-  * Official Application Website: [fibrous.finance](https://app.fibrous.finance/))
+  * Official Application Website: [app.fibrous.finance](https://app.fibrous.finance/))
 
 ## Contributing
 
